@@ -3,6 +3,9 @@
 ## Overview
 This project aims to predict movie ratings based on various features using machine learning techniques. The model is trained on a dataset containing information about movies, including their genres, release year, and other relevant attributes. It is then deployed using a web application built with Streamlit, allowing users to input movie attributes and receive predicted ratings.
 
+## App link 
+[Movie Rating Prediction App Link](https://movieratingprediction.streamlit.app/)
+
 ## Features
 
 - **Data**: The dataset consists of `[insert number]` movies with `[insert number]` features, including:
