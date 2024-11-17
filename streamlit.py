@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-from sklearn.preprocessing import MultiLabelBinarizer
 import pandas as pd
 import numpy as np 
 
